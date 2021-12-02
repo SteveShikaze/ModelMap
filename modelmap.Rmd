@@ -17,12 +17,12 @@ output:
 
 # Introduction
 
-The Oak Ridges Moraine Groundwater Program (ORMGP) has been working on producing a reliable water table map for quite some time
+The Oak Ridges Moraine Groundwater Program (ORMGP) has been supporting partner agencies with their modelling studies for many years. Because of the large number of models that have been developed with the ORMGP area, many models exist, from 
 
-# Level 0 (WT0) 
-### Interpolation of shallow well static water levels and correction to ground surface (data-driven)
+# Model Mapping Tool
 
-The water table map derived using data from shallow wells (less than 20 m deep) will reflect the water table; however, in places, the interpolated water table surface is observed to exceed ground surface, most notably in areas of deeper river valleys where there is insufficient well coverage to bring the water table down to the valley bottoms. The water table is corrected by limiting its elevation to 0.5 m below the ground surface. The final water table map produced in this way is named the “Level 0” Water Table (data-driven, referred to as WT0; Figure 1) and is available on the ORMGP web mapping portal.
+The ORMGP website can display the model boundaries for all documented modelling studies in the ORM area. To support partner agencies, website users now have the ability to 
+
 
 ![*Figure 1: Level 0 Water Table (WT0)*](https://raw.githubusercontent.com/OWRC/watertable/main/fig/f1.jpg)\
 *Figure 1: Level 0 Water Table (WT0)*\
