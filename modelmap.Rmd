@@ -24,10 +24,10 @@ The Oak Ridges Moraine Groundwater Program (ORMGP) has been supporting partner a
 The ORMGP website can display the model boundaries for all documented modelling studies in the ORM area. To support partner agencies, website users now have the ability to select a municipal or watershed boundary and see all models that are affiliated with that boundary. 
 
 
-![*Figure 1: Durham Region and associated models*](https://raw.githubusercontent.com/OWRC/watertable/main/fig/f1.jpg)\
+![*Figure 1: Durham Region and associated models*](https://github.com/SteveShikaze/ModelMap/blob/408b44086e59a1dc87d3b979d5a10e573d407d57/fig/ModelMapFig1.PNG)\
 *Figure 1: Level 0 Water Table (WT0)*\
 
-Areas where the interpolated water table surface is above ground, might reflect conditions where groundwater is actively discharging into river valley systems. An accompanying map named Potential Discharge Areas (PDAs; Figure 2) is created to identify those areas where the initially interpolated water table surface (prior to constraining the surface to ground elevation minus 0.5 m) was above ground. These areas might reflect important groundwater dependent habitat areas where cold groundwater discharges to the stream network. For instance, a review of cold-water fisheries mapping suggests a coincidence of observed cold water streams and the mapped PDAs. 
+These areas might reflect important groundwater dependent habitat areas where cold groundwater discharges to the stream network. For instance, a review of cold-water fisheries mapping suggests a coincidence of observed cold water streams and the mapped PDAs. 
 
 ![*Figure 2: Potential Discharge Areas (WT0-PDA) as derived from the WT0 surface.*](https://raw.githubusercontent.com/OWRC/watertable/main/fig/f2.jpg)\
 *Figure 2: Potential Discharge Areas (WT0-PDA) as derived from the WT0 surface.*\
