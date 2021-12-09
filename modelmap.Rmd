@@ -22,7 +22,7 @@ The Oak Ridges Moraine Groundwater Program (ORMGP) has been supporting partner a
 # Model Mapping Tool
 
 While the model-mapping tool is under development, it can be accessed on the Partners' website by opening the Consolidated Mapping feature. From there, click the "I want to..." button, as seen below:
-![*Figure 1: Getting Started with the Model Mapping Tool*](https://raw.githubusercontent.com/SteveShikaze/ModelMap/main/fig/ModelMapFig1.PNG)\
+![*Figure 1: Getting Started with the Model Mapping Tool*](https://github.com/SteveShikaze/ModelMap/blob/main/fig/IWantTo.PNG?raw=true)\
 *Figure 1: Getting Started with the Model Mapping Tool*\
 
 The ORMGP website can display the model boundaries for all documented modelling studies in the ORM area. To support partner agencies, website users now have the ability to select a municipal or watershed boundary and see all models that are affiliated with that boundary. 
