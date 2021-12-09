@@ -17,20 +17,23 @@ output:
 
 # Introduction
 
-The Oak Ridges Moraine Groundwater Program (ORMGP) has been supporting partner agencies with their modelling studies for many years. Because of the large number of models that have been developed with the ORMGP area, many models exist, from 
+The Oak Ridges Moraine Groundwater Program (ORMGP) has been supporting partner agencies with their numerical modelling studies for many years. Because of the large number of models that have been developed within the ORMGP area, many models exist, from local-scale water budgets to regional-scale, three-dimensional groundwater flow models. The Model Mapping Tool (under development) is a new feature on the ORMGP mapping website. This tool allows users to identify all documented numerical models that are associated with a selected watershed or municipal boundary.
 
 # Model Mapping Tool
+
+While the model-mapping tool is under development, it can be accessed on the Partners' website by opening the Consolidated Mapping feature. From there, click the "I want to..." button, as seen below:
+![*Figure 1: Getting Started with the Model Mapping Tool*](https://raw.githubusercontent.com/SteveShikaze/ModelMap/main/fig/ModelMapFig1.PNG)\
+*Figure 1: Getting Started with the Model Mapping Tool*\
 
 The ORMGP website can display the model boundaries for all documented modelling studies in the ORM area. To support partner agencies, website users now have the ability to select a municipal or watershed boundary and see all models that are affiliated with that boundary. 
 
 
-![*Figure 1: Durham Region and associated models*](https://raw.githubusercontent.com/SteveShikaze/ModelMap/main/fig/ModelMapFig1.PNG)\
-*Figure 1: Level 0 Water Table (WT0)*\
+![*Figure 2: Durham Region and associated models*](https://raw.githubusercontent.com/SteveShikaze/ModelMap/main/fig/ModelMapFig1.PNG)\
+*Figure 2: Durham Region and associated models*\
 
 These areas might reflect important groundwater dependent habitat areas where cold groundwater discharges to the stream network. For instance, a review of cold-water fisheries mapping suggests a coincidence of observed cold water streams and the mapped PDAs. 
 
-![*Figure 2: Potential Discharge Areas (WT0-PDA) as derived from the WT0 surface.*](https://raw.githubusercontent.com/OWRC/watertable/main/fig/f2.jpg)\
-*Figure 2: Potential Discharge Areas (WT0-PDA) as derived from the WT0 surface.*\
+
 
 # Level 1 (WT1) 
 ### Level 0 Plus Added Corrections
